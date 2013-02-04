@@ -22,7 +22,8 @@ RDEPEND="dev-python/imaging
 	dev-python/pygtk
 	dev-lang/python
 	net-p2p/sopcast-bin"
-DEPEND=""
+DEPEND="media-video/rtmpdump
+	dev-python/sqlite3dbm"
 
 S="${WORKDIR}"
 
