@@ -2,14 +2,14 @@
 <!DOCTYPE repositories SYSTEM "repositories.dtd">
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name>crismoverlay</name>
-    <description>crismoverlay unofficaal gentoo overlay</description>
-    <homepage>https://github.com/crismblog/crismoverlay</homepage>
+    <name>Calculate-ro</name>
+    <description>Overlay pt Calculate-ro</description>
+    <homepage>https://github.com/mufytk/Calculate-ro</homepage>
     <owner type="project">
-      <email>crismblog at yahoo.ro</email>
-      <name>Cristian Moldovan</name>
+      <email>mufy.tk@gmail.com</email>
+      <name>Mufy</name>
     </owner>
     <source type="git">git://github.com/mufytk/Calculate-ro.git</source>
-    <feed>https://github.com/mufytk//commits/master.atom</feed>
+    <feed>https://github.com/mufytk/commits/master.atom</feed>
   </repo>
 </repositories>
