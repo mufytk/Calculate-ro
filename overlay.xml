@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>crismoverlay</name>
+    <description>crismoverlay unofficaal gentoo overlay</description>
+    <homepage>https://github.com/crismblog/crismoverlay</homepage>
+    <owner type="project">
+      <email>crismblog at yahoo.ro</email>
+      <name>Cristian Moldovan</name>
+    </owner>
+    <source type="git">git://github.com/mufytk/Calculate-ro.git</source>
+    <feed>https://github.com/mufytk//commits/master.atom</feed>
+  </repo>
+</repositories>
